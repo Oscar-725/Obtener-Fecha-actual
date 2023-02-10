@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
 
-    val fecha:String = obtenerFechaConFormato()
+    val fechal:String = obtenerFechaConFormato()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
